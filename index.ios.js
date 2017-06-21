@@ -20,7 +20,7 @@ export default class Generhey extends Component {
     noteArray:[],
     noteText:'',
   }
-
+//hello
   render() {
 
     let notes = this.state.noteArray.map((val,key)=>{
@@ -131,7 +131,7 @@ const styles = StyleSheet.create({
     borderWidth:1,
     fontSize:30,
     padding:10,
-    fontWeight:'bold',hhhh
+    fontWeight:'bold',
   },
 
   addButton:{
