@@ -10,7 +10,6 @@ import {
   TextInput,
 } from 'react-native';
 
-import { RadioGroup,  RadioButton} from 'react-native-flexi-radio-button';
 
 import Note from './android/app/components/Note';
 
